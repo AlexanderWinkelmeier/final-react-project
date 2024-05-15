@@ -1,5 +1,5 @@
-#Final assignment for advanced React 
-##This assignmen is part of the Front-End Developer Professional certificate course from META and Coursera
+# Final assignment for advanced React 
+## This assignmen is part of the Front-End Developer Professional certificate course from META and Coursera
 
 Your portfolio app should include:
 
